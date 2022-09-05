@@ -1,6 +1,6 @@
 Olá! Eu sou a Luciana Gouveia
 
-- 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 👩‍🎓  Cursando  Análise e Desenvolvimento de Sistemas.
 - 🌱 I’m currently learning  Lógica de Programação e  HTML
 
 
