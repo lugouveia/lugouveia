@@ -1,7 +1,7 @@
 Olá! Eu sou a Luciana Gouveia.
 
 - 👩‍🎓  Cursando  Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou aprendendo Lógica de Programação e  HTML.
+- 🌱 Atualmente estou aprendendo Lógica de Programação. HTML, CSS e JavaScript.
 
 
 <div align="center">
